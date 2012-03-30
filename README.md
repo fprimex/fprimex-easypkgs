@@ -7,7 +7,7 @@ Module to create packages from lists in files.
 Use this module to create packages from lists of package names stored in files.
 
 ```
-  class pkgs::my_pkgs {          
+  class my_pkgs_class {          
     easypkgs::pkgs { 'my_pkgs':  
       pkg_file => "/path/to/your/pkg/list/file",            
       autoupdate => false        
