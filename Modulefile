@@ -1,0 +1,8 @@
+name    'fprimex-pkgs'
+version '0.0.1'
+source 'git://github.com/fprimex/fprimex-easypkgs'
+author 'Brent Woodruff'
+license 'Apache 2.0'
+summary 'Module to create packages from lists in files'
+description 'Create packages from lists in files'
+project_page 'git://github.com/fprimex/fprimex-easypkgs'
